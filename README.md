@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @YashShiroya
-- 👀 I’m like to build technology products that in some ways I can:
-  - see 👁️ (think any vanilla webpage or a complex data visualizer),
-  - feel 〰 (think of a game where you play blind and navigate a course based on vibrations alone),
-  - touch 👉 (think of something as everyday as an Alexa).
-  - Point is... technology/software products tend to be abstract, virtual, in a fabricated world.
-    - So, I like to build and be involved in things that don't let us lose touch of reality.
+- All the code I wrote over the last 3 years has been in a private vault known as Amazon.com, Inc.
+- So none of that code has translated into cells 🟩 on my Github Commit Grid 😿.
+- Currently working with a cool team developers and technologists from the *United Nations Development Programme's [SDG-AI Lab](https://sdgailab.org/)*.
 
 
 <!---
