@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @YashShiroya
-- Currently working with a cool team of developers and technologists from the *United Nations Development Programme's [SDG-AI Lab](https://sdgailab.org/)*.
+- I had the amazing opportunity to work with a cool team of developers and technologists from the *United Nations Development Programme's [SDG-AI Lab](https://sdgailab.org/)* Nov-Feb 2022.
+- I am now leading growth initiatives as a Product Manager at a travel tech startup: *[pathfndr.io](https://pathfndr.io/)*
 
 
 <!---
