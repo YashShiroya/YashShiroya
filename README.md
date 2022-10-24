@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YashShiroya
-- I had the amazing opportunity to work with a cool team of developers and technologists from the *United Nations Development Programme's [SDG-AI Lab](https://sdgailab.org/)* Nov-Feb 2022.
-- I am now leading growth initiatives as a Product Manager at a travel tech startup: *[pathfndr.io](https://pathfndr.io/)*
-
+- ***Character Intro***:👋 Hi, I’m @YashShiroya
+- ***Previous Mission Save Point***: I had the amazing opportunity to work with a cool team of developers and technologists from the *United Nations Development Programme's [SDG-AI Lab](https://sdgailab.org/)* Nov-Feb 2022.
+- ***Last seen before AFK***: Product Manager at a travel tech startup: *[pathfndr.io](https://pathfndr.io/)*
+- ***AFK Reason***: Studying Business at *[The University of British Columbia](https://www.ubc.ca/), Vancouver*
 
 <!---
 YashShiroya/YashShiroya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
